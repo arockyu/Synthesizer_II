@@ -1,0 +1,18 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Fri Oct 23 02:45:20 2020
+[*]
+[dumpfile] "C:\Users\Anaconda\Desktop\FPGA_project\Synthesizer_II\_SCons\Simulation\top_tb.vcd"
+[dumpfile_mtime] "Fri Oct 23 02:45:18 2020"
+[dumpfile_size] 1107
+[savefile] "C:\Users\Anaconda\Desktop\FPGA_project\Synthesizer_II\_SCons\Simulation\top_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 152
+[pattern_trace] 1
+[pattern_trace] 0
