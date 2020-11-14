@@ -184,6 +184,7 @@ module top (
     wire clk0;
     divider_variable D0(
         .clk(clk128m),
+        .rst(!nRST),
         .out(clk0),
         .div_num(div_num));
     defparam D0.N = 16;
